@@ -160,6 +160,7 @@ const styles = StyleSheet.create({
     },
 })
 
+//Módulo 2 (17/03)
 
 
 // Contador de Cliques
