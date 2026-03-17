@@ -1,3 +1,5 @@
+// Atividade 1 - Módulo 2 (16/03)
+
 import { Image, StyleSheet, Text, TextInput, TouchableOpacity, View } from "react-native"
 
 export default function App() {
@@ -83,10 +85,9 @@ const styles = StyleSheet.create({
 
     },
 
-
-
 })
 
+//Módulo 2 (17/03)
 
 
 
@@ -115,56 +116,3 @@ const styles = StyleSheet.create({
 
 
 
-
-// flexDirection: "column",
-// alignItems: "center",
-// paddingVertical: 48,
-// paddingHorizontal: 32,
-// backgroundColor: "#fdfffe",
-// gap: 32
-
-
-// CTRL + J para abrir o terminal, e npm start para iniciar o APP
-
-// const styles = StyleSheet.create({
-//     container: {
-//     flex: 1,
-//     flexDirection: "column",
-//     alignItems: "center",
-//     paddingVertical: 48,
-//     paddingHorizontal: 32,
-//     backgroundColor: "#fdfffe",
-//     gap: 32
-//   },
-//   card: {
-//     width: "100%",
-//     borderRadius: 16,
-//     padding: 24,
-//     gap: 16,
-//     backgroundColor: "#ececec",
-//     alignItems: "center"
-//   },
-//    circle: {
-//     width: 100,
-//     height: 100,
-//     backgroundColor: "#151316",
-//     borderRadius: "100%"
-//   },
-
-//   titulo: {
-//     fontSize: 22,
-//     fontWeight: "700"
-//   },
-//   button: {
-//     width: "100%",
-//     paddingVertical: 16,
-//     backgroundColor: "#9900ff",
-//     borderRadius: 16,
-//     alignItems: "center"
-//   },
-//   text: {
-//     color: "#ebe3e3",
-//     fontWeight: "bold",
-//     fontSize: 16
-//   }
-// })
